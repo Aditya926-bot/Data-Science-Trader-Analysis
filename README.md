@@ -1,4 +1,5 @@
 Trader Behavior Analysis vs. Market Sentiment
+
 This repository contains my submission for the Junior Data Scientist assignment. The project analyzes historical trading data alongside the Fear & Greed Index to uncover patterns in trader behavior.
 
 Project Goal
